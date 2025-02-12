@@ -27,6 +27,6 @@ for (let k = 0; k < array_lenght; k++) {
     let currentValue = num_to_ten[k]
     let is_even = currentValue % 2 === 0
     if (is_even)
-        console,
+        console.log(currentValue)
 }
 
